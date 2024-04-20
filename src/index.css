@@ -1,0 +1,19 @@
+.darkBg {
+    background-color: #333 !important;
+    color: #fff !important;
+}
+
+.darkText {
+    color: #333 !important;
+
+}
+
+.lightBg {
+    background-color: #fff !important;
+    color: #333 !important;
+}
+
+.lightText {
+    color: #fff !important;
+}
+
